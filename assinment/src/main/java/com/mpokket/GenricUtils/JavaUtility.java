@@ -3,7 +3,7 @@ package com.mpokket.GenricUtils;
 import java.util.Random;
 /**
  * 
- * @author asd
+ * @author Kanha
  *
  */
 public class JavaUtility {
